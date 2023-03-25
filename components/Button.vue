@@ -8,5 +8,5 @@
 </template>
 
 <script setup>
-const props = defineProps(['link', 'label'])
+const props = defineProps(['link', 'label', 'size'])
 </script>

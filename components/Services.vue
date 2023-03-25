@@ -1,5 +1,5 @@
 <template>
-    <div id="#services">
+    <div id="#expertises">
         <div class="md:container md:mx-auto">
             <div class="lg:py-30 md:py-16 pt-5 pb-12">
                 <div class="flex flex-col relative bg-secondary-100 lg:py-0 py-10">
@@ -15,7 +15,7 @@
                                 Als ervaren frontend developer en interactieontwerper denk ik graag mee om jouw website naar
                                 een hoger niveau te tillen.
                             </p>
-                            <Button label="CONNECT WITH ME" link="/" size="lg" />
+                            <Button label="Stuur mij een bericht" link="/" size="lg" />
                         </div>
                         <div
                             class="lg:col-span-7 flex md:flex-row flex-col lg:gap-8 gap-6 items-center xl:pr-16 lg:pr-10 lg:pl-0 md:px-8 px-5 relative">

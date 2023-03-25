@@ -11,7 +11,7 @@
                     <h1 class="lg:text-display-2xl md:text-display-xl text-display-md font-semibold pb-10">
                         Front-end developer en interaction designer
                     </h1>
-                    <Button label="CONNECT WITH ME" link="#" size="lg" />
+                    <Button label="Stuur mij een bericht" link="#contact" size="lg" />
                 </div>
                 <div class="lg:col-span-1"></div>
             </div>

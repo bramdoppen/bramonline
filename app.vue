@@ -4,7 +4,7 @@
     <main>
       <Hero />
       <Services />
-      <Work />
+      <!-- <Work /> -->
     </main>
     <Footer />
   </div>
@@ -16,9 +16,5 @@ useHead({
   meta: [
     { name: 'description', content: 'Als ervaren frontend developer ben ik gepassioneerd over het creëren van "vette shit" en het vinden van de balans tussen complexiteit en gebruiksvriendelijkheid. Ontdek hoe ik nieuwe technieken omarm om kwaliteit te leveren.' }
   ],
-  bodyAttrs: {
-    class: 'test'
-  },
-  script: [{ innerHTML: 'console.log(\'Hello world\')' }]
 })
 </script>
